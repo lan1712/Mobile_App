@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1084733269205",
+    "project_id": "uth-smart-note",
+    "storage_bucket": "uth-smart-note.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084733269205:android:fce8e62b1aa4f32b062e5c",
+        "android_client_info": {
+          "package_name": "com.example.smart_uth_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084733269205-ghv3ni9h472nmcsu2il075qdv5qmpeq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9_dpXKOJhO3moAREU7aSNAmavpQ5FERQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084733269205-ghv3ni9h472nmcsu2il075qdv5qmpeq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
